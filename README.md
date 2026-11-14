@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Kunal 👋
 
-<!--
-**kunal0040/kunal0040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **ECE (VLSI) Engineering student** with a strong interest in programming and building practical software systems.
 
-Here are some ideas to get you started:
+### Currently Building
+- **[Kaitu](https://github.com/kunal0040/Kaitu)** → A modular personal AI assistant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Learning
+- Python
+- C++
+- Local LLMs (Ollama)
+- AI Agents & Tool Use
+
+### Featured Projects
+| Project | Description |
+|---------|-------------|
+| [Kaitu](https://github.com/kunal0040/Kaitu) | Personal AI Assistant |
+| [Banking-System-Python](https://github.com/kunal0040/Banking-System-Python) | Console-based banking system |
+| [Text-Adventure-Game-Python](https://github.com/kunal0040/Text-Adventure-Game-Python) | Interactive text adventure game |
+
+### Connect
+- LinkedIn: [kunalbhargav04](https://www.linkedin.com/in/kunalbhargav04)
